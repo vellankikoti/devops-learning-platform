@@ -1,6 +1,6 @@
 {
   "label": "AWS",
-  "position": 1,
+  "position": 2,
   "link": {
     "type": "generated-index",
     "description": "Learn AWS services for DevOps engineers - EKS, ECR, CI/CD, infrastructure as code, and more."
