@@ -1,5 +1,5 @@
 ---
-sidebar_position: github-flow.md
+sidebar_position: 2
 title: GitHub Flow
 ---
 

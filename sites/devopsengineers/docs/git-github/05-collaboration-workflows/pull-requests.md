@@ -1,5 +1,5 @@
 ---
-sidebar_position: pull-requests.md
+sidebar_position: 4
 title: Pull Requests
 ---
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: code-review.md
+sidebar_position: 5
 title: Code Review
 ---
 

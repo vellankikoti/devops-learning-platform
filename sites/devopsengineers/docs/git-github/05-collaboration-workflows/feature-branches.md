@@ -1,5 +1,5 @@
 ---
-sidebar_position: feature-branches.md
+sidebar_position: 3
 title: Feature Branches
 ---
 
