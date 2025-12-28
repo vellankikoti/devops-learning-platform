@@ -1,0 +1,33 @@
+{
+  "kubernetes": {
+    "repo": "kubernetes/kubernetes",
+    "type": "github-release",
+    "statusUrl": "https://status.cloud.google.com/"
+  },
+  "docker": {
+    "url": "https://docs.docker.com/engine/release-notes/",
+    "type": "webpage",
+    "statusUrl": "https://status.docker.com/"
+  },
+  "terraform": {
+    "repo": "hashicorp/terraform",
+    "type": "github-release",
+    "statusUrl": "https://status.hashicorp.com/"
+  },
+  "ansible": {
+    "repo": "ansible/ansible",
+    "type": "github-release",
+    "statusUrl": "https://status.ansible.com/"
+  },
+  "jenkins": {
+    "repo": "jenkinsci/jenkins",
+    "type": "github-release",
+    "statusUrl": "https://status.jenkins.io/"
+  },
+  "aws": {
+    "type": "rss",
+    "rssUrl": "https://aws.amazon.com/new/feed/",
+    "statusUrl": "https://status.aws.amazon.com/"
+  }
+}
+
