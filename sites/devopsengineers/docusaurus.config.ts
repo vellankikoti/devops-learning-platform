@@ -28,6 +28,11 @@ const config: Config = {
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownImages: 'warn', // Allow missing images (screenshots to be added)
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
