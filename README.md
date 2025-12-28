@@ -183,8 +183,11 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/vellankikoti/devops-learning-platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/vellankikoti/devops-learning-platform/discussions)
+- **Repository**: https://github.com/vellankikoti/devops-learning-platform
+- **Live Site**: https://vellankikoti.github.io/devops-learning-platform/ (GitHub Pages)
+- **Custom Domain**: https://devopsengineers.in (after DNS setup)
+- **Issues**: https://github.com/vellankikoti/devops-learning-platform/issues
+- **Discussions**: https://github.com/vellankikoti/devops-learning-platform/discussions
 
 ---
 

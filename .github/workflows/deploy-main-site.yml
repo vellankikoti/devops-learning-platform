@@ -27,7 +27,6 @@ jobs:
           node-version: 20
           cache: npm
           cache-dependency-path: sites/devopsengineers/package-lock.json
-        if: hashFiles('sites/devopsengineers/package-lock.json') != ''
 
       - name: Install dependencies
         working-directory: sites/devopsengineers
@@ -35,6 +34,8 @@ jobs:
 
       - name: Build website
         working-directory: sites/devopsengineers
+        env:
+          BASE_URL: '/devops-learning-platform/'
         run: npm run build
 
       - name: Upload artifact

@@ -14,11 +14,11 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // Set the production url of your site here
+  // Production URL - primary custom domain
   url: 'https://devopsengineers.in',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // Base URL: '/' for custom domain, '/devops-learning-platform/' for GitHub Pages
+  // This works for both custom domain and GitHub Pages fallback URL
+  baseUrl: process.env.BASE_URL || '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -129,12 +129,8 @@ const config: Config = {
               href: 'https://github.com/vellankikoti/devops-learning-platform',
             },
             {
-              label: 'LinkedIn',
-              href: 'https://linkedin.com/in/your-profile',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/your-handle',
+              label: 'Repository',
+              href: 'https://github.com/vellankikoti/devops-learning-platform',
             },
           ],
         },
