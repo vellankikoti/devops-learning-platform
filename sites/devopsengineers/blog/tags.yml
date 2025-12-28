@@ -15,10 +15,15 @@ aws:
 
 devops:
   label: DevOps
-  permalink: /devops
+  permalink: /DevOps
   description: General DevOps topics and updates
 
 updates:
   label: Updates
-  permalink: /updates
+  permalink: /Updates
   description: Platform and tool updates
+
+welcome:
+  label: Welcome
+  permalink: /Welcome
+  description: Welcome posts and introductions
