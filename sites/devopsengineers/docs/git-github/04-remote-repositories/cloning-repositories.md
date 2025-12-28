@@ -82,6 +82,33 @@ git branch -a
 # Local and remote branches
 ```
 
+## Hands-On: Clone a Real Repository
+
+Let's clone an actual repository:
+
+```bash
+# Clone a repository (use any public repo)
+git clone https://github.com/octocat/Hello-World.git
+
+# Enter the directory
+cd Hello-World
+
+# Check what you got
+git remote -v
+git branch -a
+git log --oneline -5
+```
+
+![Clone Repository Hands-On](/img/git-github/hands-on/clone-repository-hands-on.png)
+
+**What you should see**:
+- Repository files downloaded
+- Remote configured (origin)
+- Branch information
+- Commit history
+
+**Try it**: Clone a repository, explore it, see the history.
+
 ## My Take: Cloning Is Starting
 
 I used to think cloning was just downloading. I'd clone and start working.
@@ -107,6 +134,8 @@ Now I clone confidently:
 ## What's Next?
 
 Next: [Pushing and Pulling](/docs/git-github/remote-repositories/pushing-and-pulling).
+
+Or practice with: [Hands-On Exercises](/docs/git-github/basic-operations/hands-on-exercises).
 
 ---
 
