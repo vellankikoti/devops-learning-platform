@@ -41,61 +41,61 @@ That's the difference between someone who knows Git commands and someone who und
 
 I've organized this into 10 modules. Not because 10 is a magic number, but because it's how I actually learned. Each one builds on the last. Skip around if you want, but you'll end up coming back.
 
-### [Fundamentals (Module 1)](/docs/git-github/01-fundamentals/what-is-git)
+### [Fundamentals (Module 1)](/docs/git-github/fundamentals/what-is-git)
 
 What Git actually is. Not the marketing version. The real version. Why it exists. How it works. What makes it different.
 
 **Why this matters**: You can't master something you don't understand. Understanding Git's philosophy makes everything else make sense.
 
-### [Basic Operations (Module 2)](/docs/git-github/02-basic-operations/initializing-repositories)
+### [Basic Operations (Module 2)](/docs/git-github/basic-operations/initializing-repositories)
 
 Creating repositories. Making commits. Saving your work. The basics that make everything else possible.
 
 **Why this matters**: Everything in Git starts with these commands. Master them, and everything else is easier.
 
-### [Branching & Merging (Module 3)](/docs/git-github/03-branching-merging/understanding-branches)
+### [Branching & Merging (Module 3)](/docs/git-github/branching-merging/understanding-branches)
 
 Branches. The feature that makes Git powerful. Creating branches. Switching branches. Merging branches.
 
 **Why this matters**: Branches let you work on multiple things at once. They let you experiment safely. They're essential.
 
-### [Remote Repositories (Module 4)](/docs/git-github/04-remote-repositories/working-with-remotes)
+### [Remote Repositories (Module 4)](/docs/git-github/remote-repositories/working-with-remotes)
 
 GitHub. GitLab. Bitbucket. Working with remote repositories. Pushing. Pulling. Syncing.
 
 **Why this matters**: Code lives in the cloud. Understanding remotes is understanding collaboration.
 
-### [Collaboration Workflows (Module 5)](/docs/git-github/05-collaboration-workflows/gitflow-workflow)
+### [Collaboration Workflows (Module 5)](/docs/git-github/collaboration-workflows/gitflow-workflow)
 
 Working with others. GitFlow. GitHub Flow. Feature branches. Pull requests.
 
 **Why this matters**: DevOps is teamwork. Understanding workflows is understanding how teams work together.
 
-### [Advanced Git (Module 6)](/docs/git-github/06-advanced-git/rebase-vs-merge)
+### [Advanced Git (Module 6)](/docs/git-github/advanced-git/rebase-vs-merge)
 
 Rebase. Cherry-pick. Stash. The advanced features that separate beginners from experts.
 
 **Why this matters**: Advanced features solve advanced problems. Learn them when you need them, but understand them now.
 
-### [GitHub Features (Module 7)](/docs/git-github/07-github-features/pull-requests)
+### [GitHub Features (Module 7)](/docs/git-github/github-features/pull-requests)
 
 Pull requests. Issues. Projects. GitHub Actions. The platform that makes Git accessible.
 
 **Why this matters**: GitHub is where most code lives. Understanding GitHub is understanding modern development.
 
-### [Production Scenarios (Module 8)](/docs/git-github/08-production-scenarios/resolving-conflicts)
+### [Production Scenarios (Module 8)](/docs/git-github/production-scenarios/resolving-conflicts)
 
 Conflicts. Rollbacks. Emergency fixes. The real-world problems you'll face.
 
 **Why this matters**: Problems happen. Knowing how to fix them is what separates professionals from beginners.
 
-### [Git Hooks & Automation (Module 9)](/docs/git-github/09-git-hooks-automation/understanding-hooks)
+### [Git Hooks & Automation (Module 9)](/docs/git-github/git-hooks-automation/understanding-hooks)
 
 Hooks. Automation. Pre-commit. Post-merge. Making Git work for you.
 
 **Why this matters**: Automation saves time. Hooks enforce quality. Learn them.
 
-### [DevOps Integration (Module 10)](/docs/git-github/10-devops-integration/git-in-ci-cd)
+### [DevOps Integration (Module 10)](/docs/git-github/devops-integration/git-in-ci-cd)
 
 Git in CI/CD. Infrastructure as Code. GitOps. The big picture.
 
