@@ -91,7 +91,7 @@ Reflog is Git's safety net. It remembers everything. Use it when you lose commit
 
 ## What's Next?
 
-Next: [Fixing Mistakes](/docs/git-github/production-scenarios/fixing-mistakes).
+You've learned about recovering lost commits. Review [Rolling Back Changes](/docs/git-github/production-scenarios/rolling-back-changes) for more recovery techniques.
 
 ---
 

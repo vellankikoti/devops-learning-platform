@@ -41,7 +41,7 @@ GitOps is the future of infrastructure. Git becomes the control plane. Everythin
 
 ## What's Next?
 
-Next: [Infrastructure as Code](/docs/git-github/devops-integration/infrastructure-as-code).
+Continue exploring DevOps integration with Git. See [Git in CI/CD](/docs/git-github/devops-integration/git-in-ci-cd) for more.
 
 ---
 

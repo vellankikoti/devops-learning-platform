@@ -62,7 +62,7 @@ Hooks automate workflows. Use them to enforce quality, run tests, deploy automat
 
 ## What's Next?
 
-Next: [Pre-Commit Hooks](/docs/git-github/git-hooks-automation/pre-commit-hooks).
+Continue learning about Git automation. Explore [DevOps Integration](/docs/git-github/devops-integration/git-in-ci-cd) to see how hooks integrate with CI/CD.
 
 ---
 

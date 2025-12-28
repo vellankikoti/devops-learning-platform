@@ -71,13 +71,13 @@ Working with others. GitFlow. GitHub Flow. Feature branches. Pull requests.
 
 **Why this matters**: DevOps is teamwork. Understanding workflows is understanding how teams work together.
 
-### [Advanced Git (Module 6)](/docs/git-github/advanced-git/rebase-vs-merge)
+### [Advanced Git (Module 6)](/docs/git-github/branching-merging/rebase)
 
 Rebase. Cherry-pick. Stash. The advanced features that separate beginners from experts.
 
 **Why this matters**: Advanced features solve advanced problems. Learn them when you need them, but understand them now.
 
-### [GitHub Features (Module 7)](/docs/git-github/github-features/pull-requests)
+### [GitHub Features (Module 7)](/docs/git-github/collaboration-workflows/pull-requests)
 
 Pull requests. Issues. Projects. GitHub Actions. The platform that makes Git accessible.
 
