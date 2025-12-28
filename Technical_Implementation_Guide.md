@@ -937,12 +937,12 @@ spec:
 
 ## What's New
 
-**Kubernetes 1.30** (May 2024):
+**Kubernetes 1.30** (May 2025):
 - Pod readiness gates now support custom conditions
 - Improved pod startup performance for large images
 - Enhanced security with user namespaces (beta)
 
-**Best Practices (Updated Dec 2024)**:
+**Best Practices (Updated Dec 2025)**:
 - Always set resource requests and limits
 - Use liveness and readiness probes
 - Implement proper logging strategies

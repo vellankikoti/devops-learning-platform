@@ -251,7 +251,7 @@ Scheduled Job (Every 6 hours)
 │  {                                                               │
 │    "kubernetes": {                                               │
 │      "version": "v1.30.0",                                       │
-│      "date": "2024-04-17",                                       │
+│      "date": "2025-04-17",                                       │
 │      "url": "https://..."                                        │
 │    },                                                            │
 │    ...                                                           │
@@ -312,7 +312,7 @@ RSS Feeds                          API Sources
 │    {                                                             │
 │      "tool": "Kubernetes",                                       │
 │      "title": "v1.30 Released",                                  │
-│      "date": "2024-04-17",                                       │
+│      "date": "2025-04-17",                                       │
 │      "link": "https://...",                                      │
 │      "type": "release"                                           │
 │    },                                                            │
