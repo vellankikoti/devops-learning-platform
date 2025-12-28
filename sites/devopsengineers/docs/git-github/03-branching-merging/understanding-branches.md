@@ -130,6 +130,41 @@ Then I learned branches. Now I create branches for everything:
 4. **Keep branches focused** - One feature per branch
 5. **Branches are safety** - Experiment without risk
 
+## Hands-On: Create and Use Branches
+
+Let's create a branch and see it in action:
+
+```bash
+# Create a feature branch
+git checkout -b feature/new-feature
+
+# Make a change
+echo "New feature code" > feature.js
+git add feature.js
+git commit -m "Add new feature"
+
+# Switch back to main
+git checkout main
+
+# Feature file doesn't exist here!
+ls -la
+
+# Switch back to feature branch
+git checkout feature/new-feature
+
+# Feature file is back
+ls -la
+```
+
+![Branch Hands-On](/img/git-github/hands-on/branch-hands-on.png)
+
+**What you're seeing**:
+- Branches are separate workspaces
+- Changes on one branch don't affect others
+- You can switch between them freely
+
+**Try it**: Create a branch, make changes, switch branches. See how Git keeps them separate.
+
 ## What's Next?
 
 Now that you understand branches, let's learn about merging. Next: [Merging Branches](/docs/git-github/branching-merging/merging-branches).

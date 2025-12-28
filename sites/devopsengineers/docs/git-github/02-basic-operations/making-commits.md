@@ -313,9 +313,38 @@ git commit -m "Update"
 4. **Stage before committing** - Use `git add` first
 5. **Commits are safety nets** - You can always go back
 
+## Hands-On: Make Your First Commit
+
+Let's commit something real:
+
+```bash
+# Create a file
+echo "# My Project" > README.md
+
+# Stage it
+git add README.md
+
+# Commit it
+git commit -m "Add README file"
+
+# View your commit
+git log --oneline
+```
+
+![First Commit Hands-On](/img/git-github/hands-on/first-commit-hands-on.png)
+
+**What you should see**:
+- Your commit hash
+- Your commit message
+- Author and timestamp
+
+**Try it**: Make a commit, then use `git show` to see the details.
+
 ## What's Next?
 
 Now that you can make commits, let's learn about viewing and understanding history. Next: [Viewing History](/docs/git-github/basic-operations/viewing-history).
+
+Or practice with: [Hands-On Exercises](/docs/git-github/basic-operations/hands-on-exercises).
 
 ---
 
