@@ -328,6 +328,43 @@ git merge --abort  # Every time there's a conflict
 4. **Test after resolution** - Make sure it works
 5. **Use merge tools** - They make it easier
 
+## Hands-On: Resolve a Real Conflict
+
+Let's create and resolve a conflict:
+
+```bash
+# On main branch
+echo "Line 1" > conflict-file.txt
+git add conflict-file.txt
+git commit -m "Add line 1"
+
+# Create feature branch
+git checkout -b feature/add-line2
+
+# Add line 2
+echo "Line 2" >> conflict-file.txt
+git add conflict-file.txt
+git commit -m "Add line 2"
+
+# Switch to main and modify same line
+git checkout main
+echo "Line 2 modified" >> conflict-file.txt
+git add conflict-file.txt
+git commit -m "Modify line 2"
+
+# Try to merge (conflict!)
+git merge feature/add-line2
+```
+
+![Conflict Resolution Hands-On](/img/git-github/hands-on/conflict-resolution-hands-on.png)
+
+**What you'll see**:
+- Conflict markers in the file
+- Git telling you which files have conflicts
+- You need to resolve manually
+
+**Try it**: Create a conflict, resolve it, complete the merge.
+
 ## What's Next?
 
 Now that you can resolve conflicts, let's learn about rollbacks. Next: [Rolling Back Changes](/docs/git-github/production-scenarios/rolling-back-changes).

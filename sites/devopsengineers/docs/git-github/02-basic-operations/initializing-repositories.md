@@ -265,6 +265,30 @@ git init
 
 **Fix**: Make an initial commit right away. Even if it's just a README.
 
+## Hands-On: Initialize Your First Repository
+
+Let's do this for real. Follow along:
+
+```bash
+# Create a project directory
+mkdir my-git-project
+cd my-git-project
+
+# Initialize Git
+git init
+
+# You should see: Initialized empty Git repository...
+```
+
+![Git Init Hands-On](/img/git-github/hands-on/git-init-hands-on.png)
+
+**What just happened?**
+- Git created a `.git` folder (hidden)
+- Your directory is now a Git repository
+- You're ready to start tracking files
+
+**Try it yourself**: Create a repository, then check `git status`. See what Git tells you.
+
 ## Key Takeaways
 
 1. **`git init` creates a repository** - It sets up the `.git` folder
@@ -276,6 +300,8 @@ git init
 ## What's Next?
 
 Now that you can initialize repositories, let's learn about making commits. Next: [Making Commits](/docs/git-github/basic-operations/making-commits).
+
+Or practice with: [Hands-On Exercises](/docs/git-github/basic-operations/hands-on-exercises).
 
 ---
 
