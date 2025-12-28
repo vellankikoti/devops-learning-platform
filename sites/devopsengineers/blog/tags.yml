@@ -1,16 +1,16 @@
 kubernetes:
   label: Kubernetes
-  permalink: /kubernetes
+  permalink: /Kubernetes
   description: Kubernetes tutorials and updates
 
 docker:
   label: Docker
-  permalink: /docker
+  permalink: /Docker
   description: Docker and containerization content
 
 aws:
   label: AWS
-  permalink: /aws
+  permalink: /AWS
   description: AWS for DevOps engineers
 
 devops:
