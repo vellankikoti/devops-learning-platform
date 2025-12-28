@@ -35,7 +35,8 @@ jobs:
       - name: Build website
         working-directory: sites/devopsengineers
         env:
-          BASE_URL: '/devops-learning-platform/'
+          # Use root baseUrl for custom domain, or repo path for GitHub Pages URL
+          BASE_URL: '/'
         run: npm run build
 
       - name: Upload artifact
