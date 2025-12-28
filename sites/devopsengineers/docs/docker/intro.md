@@ -24,5 +24,5 @@ Master containerization with Docker from basics to advanced production patterns.
 
 ## Start Learning
 
-[Get Started with Docker →](/docs/docker/installation)
+Docker tutorials are coming soon! Check back for detailed installation and setup guides.
 

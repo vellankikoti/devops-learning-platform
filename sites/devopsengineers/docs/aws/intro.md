@@ -21,5 +21,5 @@ Learn AWS services specifically relevant for DevOps engineers.
 - Basic cloud computing concepts
 - AWS account (free tier available)
 
-[Get Started →](/docs/aws/iam)
+AWS DevOps tutorials are coming soon! Check back for detailed guides on IAM, EKS, and other AWS services.
 

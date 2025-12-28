@@ -36,7 +36,7 @@ Master production patterns, security, and custom extensions.
 
 ## Start Here
 
-Begin your journey with [What is Kubernetes?](/docs/kubernetes/what-is-kubernetes)
+This is the beginning of your Kubernetes learning journey. More modules will be added soon!
 
 **Estimated time to complete**: 8-12 weeks (self-paced)
 

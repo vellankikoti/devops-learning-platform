@@ -142,8 +142,8 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'About',
-              to: '/about',
+              label: 'GitHub Repository',
+              href: 'https://github.com/vellankikoti/devops-learning-platform',
             },
           ],
         },
