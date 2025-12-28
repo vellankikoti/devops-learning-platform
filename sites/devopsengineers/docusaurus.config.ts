@@ -153,7 +153,7 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
-      additionalLanguages: ['bash', 'yaml', 'json', 'docker', 'hcl', 'terraform'],
+      additionalLanguages: ['bash', 'yaml', 'json', 'hcl'],
     },
   } satisfies Preset.ThemeConfig,
 };
