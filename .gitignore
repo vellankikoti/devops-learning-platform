@@ -37,3 +37,19 @@ Thumbs.db
 *.temp
 temp-*
 
+# Documentation files (change frequently, cause confusion in public repo)
+Architecture_Diagrams.md
+COMPREHENSIVE_PRD_DEVOPS_PLATFORM.md
+PRD_DevOps_Learning_Platform.md
+*_SUMMARY.md
+*_GUIDE.md
+*_SETUP.md
+LEARNING_GUIDE_*.md
+MASTER_*.md
+FINAL_*.md
+PRODUCTION_URLS.md
+GITHUB_SETUP.md
+Technical_Implementation_Guide.md
+Quick_Reference_Guide.md
+SETUP_COMPLETE.md
+
