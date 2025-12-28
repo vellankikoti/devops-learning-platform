@@ -45,3 +45,4 @@ Now that you understand batch operations, you can process files. Or review [File
 
 > **Personal note**: Batch operations seemed tedious at first. Then I learned patterns. Now I use them constantly. They're useful. Learn them.
 
+

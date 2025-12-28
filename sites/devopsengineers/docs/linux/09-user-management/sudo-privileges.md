@@ -146,3 +146,4 @@ Now that you understand sudo, let's talk about [Password Management](/docs/linux
 
 > **Personal note**: When I started, I'd share root password. Then I learned sudo. Now I use sudo for everything. It's secure. It's logged. Use it.
 
+

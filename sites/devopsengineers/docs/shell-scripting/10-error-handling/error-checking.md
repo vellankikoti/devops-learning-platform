@@ -62,3 +62,4 @@ Now that you understand error checking, let's talk about [set Options](/docs/she
 
 > **Personal note**: I used to ignore errors. Then things broke. Now I check always. It prevents problems. Do it.
 
+

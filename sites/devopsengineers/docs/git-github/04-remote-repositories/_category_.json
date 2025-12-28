@@ -1,0 +1,8 @@
+{
+  "label": "Remote Repositories",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Working with remote repositories, GitHub, GitLab, and collaboration."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Fundamentals",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Git fundamentals and core concepts for DevOps engineers."
+  }
+}
+

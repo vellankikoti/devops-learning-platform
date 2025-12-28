@@ -43,3 +43,4 @@ Now that you understand deployment, let's talk about [Monitoring Scripts](/docs/
 
 > **Personal note**: Deployment scripts seemed complex at first. Then I learned patterns. Now I use them constantly. They're useful. Learn them.
 
+

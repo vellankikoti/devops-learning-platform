@@ -1,0 +1,8 @@
+{
+  "label": "Basic Operations",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Essential Git operations for daily DevOps work."
+  }
+}

@@ -157,3 +157,4 @@ Now that you understand iptables, let's talk about [firewalld](/docs/linux/netwo
 
 > **Personal note**: iptables seemed complex at first. Then I learned basics. Now I use it. But I prefer UFW for simplicity. Use what works for you.
 
+

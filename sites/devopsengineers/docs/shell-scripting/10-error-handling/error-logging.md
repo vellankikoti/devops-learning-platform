@@ -51,3 +51,4 @@ Now that you understand error logging, let's talk about [Debugging Techniques](/
 
 > **Personal note**: Error logging seemed unnecessary at first. Then I needed it. Now I log everything. It helps. Do it.
 
+

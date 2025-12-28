@@ -129,3 +129,4 @@ Now that you understand modern packages, let's talk about [Building From Source]
 
 > **Personal note**: I avoided Snap and Flatpak at first. Then I needed a package. Now I use them when needed. They're useful. Learn them.
 
+

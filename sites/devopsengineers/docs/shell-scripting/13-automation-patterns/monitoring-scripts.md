@@ -41,3 +41,4 @@ Now that you understand monitoring, let's talk about [Log Analysis](/docs/shell-
 
 > **Personal note**: Monitoring scripts seemed unnecessary at first. Then I used them. Now I use them always. They prevent problems. Use them.
 
+

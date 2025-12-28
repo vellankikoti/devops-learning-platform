@@ -33,3 +33,4 @@ Now that you understand process substitution, let's talk about [Globbing Pattern
 
 > **Personal note**: Process substitution seemed complex at first. Then I used it. Now I use it when needed. It's powerful. Learn it.
 
+

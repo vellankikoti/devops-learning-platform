@@ -152,3 +152,4 @@ Now that you understand building from source, you can install anything. Or revie
 
 > **Personal note**: I used to compile everything from source. Then I learned package managers. Now I compile only when necessary. Packages are easier. Use them.
 
+

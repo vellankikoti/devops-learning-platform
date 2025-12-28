@@ -1,0 +1,8 @@
+{
+  "label": "GitHub Features",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "GitHub features: Pull Requests, Issues, Projects, and GitHub Actions."
+  }
+}

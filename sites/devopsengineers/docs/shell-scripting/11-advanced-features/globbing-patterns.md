@@ -45,3 +45,4 @@ Now that you understand globbing, let's talk about [Regex In Bash](/docs/shell-s
 
 > **Personal note**: Globbing seemed simple at first. Then I learned patterns. Now I use them constantly. They're useful. Learn them.
 
+

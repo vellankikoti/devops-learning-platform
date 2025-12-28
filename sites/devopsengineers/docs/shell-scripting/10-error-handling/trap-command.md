@@ -51,3 +51,4 @@ Now that you understand trap, let's talk about [Error Logging](/docs/shell-scrip
 
 > **Personal note**: trap seemed complex at first. Then I used it for cleanup. Now I use it always. It's useful. Learn it.
 
+

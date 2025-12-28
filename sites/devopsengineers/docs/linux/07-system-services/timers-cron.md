@@ -158,3 +158,4 @@ Now that you can schedule tasks, let's talk about [Service Troubleshooting](/doc
 
 > **Personal note**: I used cron for everything. Then I learned timers. Now I use timers for complex scheduling. Cron for simple tasks. Both work. Use what fits.
 
+

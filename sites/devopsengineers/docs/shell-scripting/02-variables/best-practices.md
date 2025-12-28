@@ -107,3 +107,4 @@ Now that you understand best practices, you write better scripts. Or review [Var
 
 > **Personal note**: I used to write messy scripts. Then I learned best practices. Now my scripts are better. Cleaner. Safer. Follow practices.
 
+

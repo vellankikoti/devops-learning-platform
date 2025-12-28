@@ -145,3 +145,4 @@ Now that you understand automation tools, you can automate Linux operations. Or 
 
 > **Personal note**: Automation tools seemed complex at first. Then I realized: they're Linux automation. Now I use my Linux skills with tools. It's the same. Learn Linux. Tools follow.
 
+

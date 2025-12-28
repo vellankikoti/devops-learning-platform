@@ -67,3 +67,4 @@ Now that you understand set options, let's talk about [trap Command](/docs/shell
 
 > **Personal note**: set options seemed unnecessary at first. Then I used them. Now I always use them. They prevent problems. Use them.
 
+

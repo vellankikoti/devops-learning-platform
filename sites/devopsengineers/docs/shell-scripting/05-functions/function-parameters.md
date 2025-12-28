@@ -70,3 +70,4 @@ Now that you understand parameters, let's talk about [Return Values](/docs/shell
 
 > **Personal note**: Function parameters seemed complex at first. Then I learned: they're like script arguments. Now I use them constantly. They're simple. Learn them.
 
+

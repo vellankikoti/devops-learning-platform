@@ -49,3 +49,4 @@ Now that you understand awk basics, let's talk about [awk Advanced](/docs/shell-
 
 > **Personal note**: awk seemed complex at first. Then I learned basics. Now I use it. It's powerful. Learn it.
 
+

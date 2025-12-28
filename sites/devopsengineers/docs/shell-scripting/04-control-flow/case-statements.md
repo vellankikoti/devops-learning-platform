@@ -86,3 +86,4 @@ Now that you understand case, let's talk about [While Loops](/docs/shell-scripti
 
 > **Personal note**: I used to use many if-else. Then I learned case. Now I use it for multiple choices. It's cleaner. Use it.
 
+

@@ -41,3 +41,4 @@ Now that you understand Docker scripts, let's talk about [Kubernetes Scripts](/d
 
 > **Personal note**: Docker scripts seemed unnecessary at first. Then I used them. Now I use them constantly. They're useful. Learn them.
 
+

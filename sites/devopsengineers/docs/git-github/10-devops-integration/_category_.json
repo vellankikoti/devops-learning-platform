@@ -1,0 +1,8 @@
+{
+  "label": "DevOps Integration",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Git integration with CI/CD, Infrastructure as Code, and GitOps workflows."
+  }
+}

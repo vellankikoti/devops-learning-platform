@@ -160,3 +160,4 @@ Now that you understand cloud integration, let's talk about [Automation Tools](/
 
 > **Personal note**: Cloud seemed complex at first. Then I realized: it's just Linux. Now I use my Linux skills in the cloud. It's the same. Learn Linux. Cloud follows.
 
+

@@ -40,3 +40,4 @@ Now that you understand maintenance, let's talk about [Cron Automation](/docs/sh
 
 > **Personal note**: Maintenance scripts seemed unnecessary at first. Then I automated them. Now I use them always. They save time. Use them.
 
+

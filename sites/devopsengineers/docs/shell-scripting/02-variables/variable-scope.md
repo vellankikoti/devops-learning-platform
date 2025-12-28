@@ -97,3 +97,4 @@ Now that you understand scope, let's talk about [Best Practices](/docs/shell-scr
 
 > **Personal note**: Scope confused me at first. Then I learned: use `local` in functions. Now I do it always. It prevents problems.
 
+

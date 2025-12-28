@@ -62,3 +62,4 @@ Now that you understand pipes, let's talk about [File Descriptors](/docs/shell-s
 
 > **Personal note**: Pipes seemed simple at first. Then I learned they're powerful. Now I use them constantly. They're essential. Learn them.
 
+

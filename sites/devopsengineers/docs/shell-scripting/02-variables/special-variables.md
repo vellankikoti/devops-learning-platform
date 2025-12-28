@@ -102,3 +102,4 @@ Now that you understand special variables, let's talk about [Environment Variabl
 
 > **Personal note**: Special variables seemed confusing at first. Then I learned them. Now I use them constantly. They're useful. Learn them.
 
+

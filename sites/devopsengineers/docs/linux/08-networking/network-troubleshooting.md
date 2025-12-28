@@ -209,3 +209,4 @@ Now that you can troubleshoot networks, let's talk about [Firewall iptables](/do
 
 > **Personal note**: Network problems used to frustrate me. Then I learned systematic troubleshooting. Now I check one thing at a time. Find the problem. Fix it. It's methodical.
 
+

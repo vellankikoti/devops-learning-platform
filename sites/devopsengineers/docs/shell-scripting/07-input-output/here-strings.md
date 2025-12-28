@@ -41,3 +41,4 @@ Now that you understand here strings, let's talk about [Pipes](/docs/shell-scrip
 
 > **Personal note**: Here strings seemed unnecessary at first. Then I used them. Now I use them for quick input. They're useful. Learn them.
 
+

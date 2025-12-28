@@ -75,3 +75,4 @@ Now that you understand redirection, let's talk about [Here Documents](/docs/she
 
 > **Personal note**: Redirection seemed confusing at first. Then I learned it. Now I use it constantly. It's essential. Learn it.
 
+

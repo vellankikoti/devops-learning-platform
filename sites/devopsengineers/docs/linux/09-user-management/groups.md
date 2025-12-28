@@ -163,3 +163,4 @@ Now that you understand groups, let's talk about [Sudo Privileges](/docs/linux/u
 
 > **Personal note**: When I started, I'd give users individual permissions. Then I learned groups. Now I use groups for everything. They're easier. They're better. Use them.
 
+

@@ -66,3 +66,4 @@ Now that you understand while loops, let's talk about [Until Loops](/docs/shell-
 
 > **Personal note**: While loops seemed simple. Then I created infinite loops. Now I'm careful. Check your conditions. Always.
 
+

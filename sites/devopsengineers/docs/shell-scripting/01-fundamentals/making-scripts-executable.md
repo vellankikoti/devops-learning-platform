@@ -78,3 +78,4 @@ Now that you can make scripts executable, you're ready. Or review [Script Struct
 
 > **Personal note**: I used to forget chmod. Then scripts wouldn't run. Now I always chmod +x. It's habit. Do it.
 
+

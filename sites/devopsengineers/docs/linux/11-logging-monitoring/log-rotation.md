@@ -164,3 +164,4 @@ Now that you understand log rotation, let's talk about [System Monitoring](/docs
 
 > **Personal note**: I've had disks fill up from logs. Then I learned log rotation. Now I configure it for everything. Logs rotate. Disk stays free. Configure it.
 
+

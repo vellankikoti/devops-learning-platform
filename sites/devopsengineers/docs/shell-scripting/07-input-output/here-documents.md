@@ -65,3 +65,4 @@ Now that you understand here documents, let's talk about [Here Strings](/docs/sh
 
 > **Personal note**: Here documents seemed unnecessary at first. Then I used them for templates. Now I use them constantly. They're useful. Learn them.
 
+

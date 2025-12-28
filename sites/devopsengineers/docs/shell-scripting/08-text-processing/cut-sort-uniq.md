@@ -50,3 +50,4 @@ Now that you understand these tools, let's talk about [Text Processing Examples]
 
 > **Personal note**: These tools seemed simple. Then I used them. Now I use them constantly. They're useful. Learn them.
 
+

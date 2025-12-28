@@ -86,3 +86,4 @@ Now that you understand local variables, let's talk about [Recursive Functions](
 
 > **Personal note**: I used to forget local. Then I had conflicts. Now I always use local in functions. It prevents problems. Do it.
 
+

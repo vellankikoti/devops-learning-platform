@@ -50,3 +50,4 @@ Now that you understand iteration, you can work with arrays. Or review [Arrays](
 
 > **Personal note**: Array iteration seemed complex. Then I learned the patterns. Now I use them constantly. They're essential. Learn them.
 
+

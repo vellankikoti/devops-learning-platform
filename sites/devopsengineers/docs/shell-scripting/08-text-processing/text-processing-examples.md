@@ -49,3 +49,4 @@ Now that you understand examples, you can process text. Or review [Text Processi
 
 > **Personal note**: Examples helped me learn. Then I adapted them. Now I use patterns from examples. They're useful. Learn from them.
 
+

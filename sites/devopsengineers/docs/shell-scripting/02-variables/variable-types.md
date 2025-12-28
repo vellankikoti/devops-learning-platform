@@ -81,3 +81,4 @@ Now that you understand types, let's talk about [Special Variables](/docs/shell-
 
 > **Personal note**: I used to fight with types. Then I learned: everything is a string. Now I work with it. It's simpler than I thought.
 
+

@@ -85,3 +85,4 @@ Now that you understand environment variables, let's talk about [Variable Scope]
 
 > **Personal note**: Environment variables seemed mysterious at first. Then I learned the common ones. Now I use them constantly. They're everywhere. Learn them.
 
+

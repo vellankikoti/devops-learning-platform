@@ -184,3 +184,4 @@ Now that you can configure IPs, let's talk about [Network Troubleshooting](/docs
 
 > **Personal note**: When I started, I'd use `ifconfig`. Then I learned `ip`. Now I use `ip` for everything. It's better. Learn it.
 
+

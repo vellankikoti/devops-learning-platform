@@ -34,3 +34,4 @@ Now that you understand cron, you can schedule tasks. Or review [Automation Patt
 
 > **Personal note**: Cron seemed complex at first. Then I learned it. Now I use it constantly. It's useful. Learn it.
 
+

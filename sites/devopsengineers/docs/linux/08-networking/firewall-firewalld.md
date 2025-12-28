@@ -157,3 +157,4 @@ Now that you understand firewalld, you can secure RHEL/CentOS systems. Or review
 
 > **Personal note**: firewalld seemed unnecessary at first. Then I used it. Now I prefer it over iptables. It's simpler. Use it on RHEL/CentOS.
 
+

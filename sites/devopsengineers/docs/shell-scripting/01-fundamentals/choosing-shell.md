@@ -83,3 +83,4 @@ Now that you understand shells, let's talk about [Shebang Line](/docs/shell-scri
 
 > **Personal note**: I used to wonder which shell to use. Then I learned: bash for scripts. That's it. Don't overthink it.
 
+

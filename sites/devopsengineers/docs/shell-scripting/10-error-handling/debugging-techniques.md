@@ -55,3 +55,4 @@ Now that you understand debugging, you can fix scripts. Or review [Error Handlin
 
 > **Personal note**: Debugging seemed hard at first. Then I learned techniques. Now I debug easily. It's a skill. Learn it.
 
+

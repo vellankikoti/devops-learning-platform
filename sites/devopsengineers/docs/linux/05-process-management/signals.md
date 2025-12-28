@@ -145,3 +145,4 @@ Now that you understand signals, let's talk about [Process Monitoring](/docs/lin
 
 > **Personal note**: I used to use `kill -9` for everything. Then I learned signals. Now I try graceful first. Processes should have a chance to clean up. Be nice to your processes.
 
+

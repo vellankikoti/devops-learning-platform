@@ -147,3 +147,4 @@ Now that you understand DNF, let's talk about [Snap and Flatpak](/docs/linux/pac
 
 > **Personal note**: I learned YUM first. Then DNF came. Now I use DNF. It's faster. It's better. Learn DNF.
 
+

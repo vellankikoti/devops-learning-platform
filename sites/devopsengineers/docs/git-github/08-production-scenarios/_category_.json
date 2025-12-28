@@ -1,0 +1,9 @@
+{
+  "label": "Production Scenarios",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Real-world production scenarios: conflicts, rollbacks, emergency fixes, and troubleshooting."
+  }
+}
+
