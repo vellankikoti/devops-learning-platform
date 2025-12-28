@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+kubernetes:
+  label: Kubernetes
+  permalink: /kubernetes
+  description: Kubernetes tutorials and updates
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+docker:
+  label: Docker
+  permalink: /docker
+  description: Docker and containerization content
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+aws:
+  label: AWS
+  permalink: /aws
+  description: AWS for DevOps engineers
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+devops:
+  label: DevOps
+  permalink: /devops
+  description: General DevOps topics and updates
+
+updates:
+  label: Updates
+  permalink: /updates
+  description: Platform and tool updates

@@ -11,32 +11,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Kubernetes',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Master Kubernetes from zero to hero. Learn container orchestration, 
+        deployments, networking, and advanced topics with hands-on tutorials.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Docker',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Learn containerization with Docker. From basics to production patterns, 
+        multi-stage builds, and security best practices.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'AWS & DevOps Tools',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Comprehensive coverage of AWS services, Terraform, Ansible, Jenkins, 
+        and all essential DevOps tools with real-world examples.
       </>
     ),
   },

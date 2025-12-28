@@ -4,27 +4,86 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* Blue and White Theme - Docker/Kubernetes Style */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* Primary Blue - Professional DevOps Blue */
+  --ifm-color-primary: #0066cc;
+  --ifm-color-primary-dark: #0052a3;
+  --ifm-color-primary-darker: #004d99;
+  --ifm-color-primary-darkest: #003f7f;
+  --ifm-color-primary-light: #1a75d9;
+  --ifm-color-primary-lighter: #267ee0;
+  --ifm-color-primary-lightest: #4d99e6;
+  
+  /* Background - Clean White */
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #f8f9fa;
+  
+  /* Text - Dark on White */
+  --ifm-font-color-base: #1a1a1a;
+  --ifm-heading-color: #0066cc;
+  
+  /* Code blocks */
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 102, 204, 0.1);
+  
+  /* Navbar - White with Blue accents */
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-navbar-link-color: #1a1a1a;
+  --ifm-navbar-link-hover-color: #0066cc;
+  
+  /* Footer - Blue background */
+  --ifm-footer-background-color: #0066cc;
+  --ifm-footer-color: #ffffff;
+  --ifm-footer-link-color: #ffffff;
+  --ifm-footer-link-hover-color: #e6f2ff;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark mode - Keep blue theme but darker */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #4d99e6;
+  --ifm-color-primary-dark: #267ee0;
+  --ifm-color-primary-darker: #1a75d9;
+  --ifm-color-primary-darkest: #0066cc;
+  --ifm-color-primary-light: #66b3f0;
+  --ifm-color-primary-lighter: #80c0f5;
+  --ifm-color-primary-lightest: #b3d9f9;
+  
+  --ifm-background-color: #1a1a1a;
+  --ifm-background-surface-color: #2d2d2d;
+  --ifm-font-color-base: #e6e6e6;
+  --ifm-heading-color: #4d99e6;
+  
+  --docusaurus-highlighted-code-line-bg: rgba(77, 153, 230, 0.2);
+  
+  --ifm-navbar-background-color: #1a1a1a;
+  --ifm-footer-background-color: #0d1b2d;
+}
+
+/* Hero section - Blue gradient background */
+.hero--primary {
+  --ifm-hero-background-color: #0066cc;
+  --ifm-hero-text-color: #ffffff;
+}
+
+/* Buttons - Blue theme */
+.button--primary {
+  --ifm-button-background-color: #0066cc;
+  --ifm-button-border-color: #0066cc;
+}
+
+.button--primary:hover {
+  --ifm-button-background-color: #0052a3;
+  --ifm-button-border-color: #0052a3;
+}
+
+.button--secondary {
+  --ifm-button-background-color: #ffffff;
+  --ifm-button-color: #0066cc;
+  --ifm-button-border-color: #0066cc;
+}
+
+.button--secondary:hover {
+  --ifm-button-background-color: #0066cc;
+  --ifm-button-color: #ffffff;
 }

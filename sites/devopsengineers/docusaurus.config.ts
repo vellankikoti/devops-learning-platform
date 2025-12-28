@@ -74,7 +74,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
-      respectPrefersColorScheme: true,
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
     },
     navbar: {
       title: 'DevOps Engineers',
@@ -84,10 +86,37 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          type: 'doc',
+          docId: 'intro',
           position: 'left',
-          label: 'Docs',
+          label: 'Home',
+        },
+        {
+          type: 'dropdown',
+          label: 'Learn',
+          position: 'left',
+          items: [
+            {
+              label: 'Kubernetes',
+              to: '/docs/kubernetes/intro',
+            },
+            {
+              label: 'Docker',
+              to: '/docs/docker/intro',
+            },
+            {
+              label: 'AWS',
+              to: '/docs/aws/intro',
+            },
+            {
+              type: 'html',
+              value: '<hr style="margin: 0.3rem 0;">',
+            },
+            {
+              label: 'All Tools',
+              to: '/docs/intro',
+            },
+          ],
         },
         {to: '/blog', label: 'Updates', position: 'left'},
         {
@@ -122,23 +151,10 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Resources',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/vellankikoti/devops-learning-platform',
-            },
-            {
-              label: 'Repository',
-              href: 'https://github.com/vellankikoti/devops-learning-platform',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
+              label: 'Latest Updates',
               to: '/blog',
             },
             {
