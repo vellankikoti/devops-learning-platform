@@ -1,5 +1,5 @@
 ---
-sidebar_position: team-workflows.md
+sidebar_position: 6
 title: Team Workflows
 ---
 
