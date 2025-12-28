@@ -5,27 +5,56 @@ title: Welcome to DevOps Engineers
 
 # Welcome to DevOps Engineers
 
-Master DevOps tools from Zero to Hero with comprehensive tutorials, real-world examples, and latest updates.
+Master DevOps tools from **Zero to Hero** with comprehensive tutorials, real-world examples, and latest updates.
 
-## Learning Paths
+## 🎯 Recommended Learning Path
 
-### 🎯 Kubernetes Track
-From container basics to production-grade Kubernetes deployments.
+Follow this structured path to become a DevOps expert from scratch:
 
-[Start Learning Kubernetes →](/docs/kubernetes/intro)
+### 1. ☁️ AWS for DevOps
+Start with cloud fundamentals. Learn cloud infrastructure, services, and DevOps practices on AWS.
 
-### 🐳 Docker Track
-Master containerization with Docker and best practices.
+**[Start Learning AWS →](/docs/aws/intro)**
 
-[Start Learning Docker →](/docs/docker/intro)
+### 2. 🐧 Linux Fundamentals
+Master Linux system administration - the foundation of all DevOps work.
 
-### ☁️ AWS for DevOps
-Cloud infrastructure and DevOps services on AWS.
+**[Start Learning Linux →](/docs/linux/intro)**
 
-[Start Learning AWS →](/docs/aws/intro)
+### 3. 📜 Shell Scripting
+Learn bash scripting and automation to streamline DevOps tasks.
 
-### 🛠️ Essential Tools
-Linux, Git, Jenkins, Ansible, Terraform, and more.
+**[Start Learning Shell Scripting →](/docs/shell-scripting/intro)**
+
+### 4. 🔀 Git & GitHub
+Master version control and collaboration workflows essential for DevOps.
+
+**[Start Learning Git & GitHub →](/docs/git-github/intro)**
+
+### 5. 🔧 Jenkins CI/CD
+Build and automate CI/CD pipelines for continuous integration and deployment.
+
+**[Start Learning Jenkins →](/docs/jenkins/intro)**
+
+### 6. ⚙️ Ansible Automation
+Learn configuration management and infrastructure automation with Ansible.
+
+**[Start Learning Ansible →](/docs/ansible/intro)**
+
+### 7. 🐳 Docker Containerization
+Master containerization with Docker - package and deploy applications consistently.
+
+**[Start Learning Docker →](/docs/docker/intro)**
+
+### 8. ☸️ Kubernetes Orchestration
+Deploy and manage containerized applications at scale with Kubernetes.
+
+**[Start Learning Kubernetes →](/docs/kubernetes/intro)**
+
+### 9. 🏗️ Terraform Infrastructure as Code
+Provision and manage cloud infrastructure using Infrastructure as Code principles.
+
+**[Start Learning Terraform →](/docs/terraform/intro)**
 
 ## What Makes Us Different
 

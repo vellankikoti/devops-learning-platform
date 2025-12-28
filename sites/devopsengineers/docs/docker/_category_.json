@@ -1,6 +1,6 @@
 {
   "label": "Docker",
-  "position": 2,
+  "position": 7,
   "link": {
     "type": "generated-index",
     "description": "Master containerization with Docker - from basics to production patterns and best practices."
