@@ -99,15 +99,19 @@ git branch -a
 git log --oneline -5
 ```
 
-![Clone Repository Hands-On](/img/git-github/hands-on/clone-repository-hands-on.png)
-
 **What you should see**:
-- Repository files downloaded
-- Remote configured (origin)
-- Branch information
+- Repository files downloaded to your local machine
+- Remote configured (origin pointing to GitHub)
+- Branch information (local and remote)
 - Commit history
 
-**Try it**: Clone a repository, explore it, see the history.
+**Try it**: 
+1. Clone a repository using the command above
+2. Explore the files that were downloaded
+3. Check `git remote -v` to see the remote URL
+4. Use `git log` to see the commit history
+
+**Create a screenshot**: Capture your terminal showing the clone command, `git remote -v`, and `git branch -a` output.
 
 ## My Take: Cloning Is Starting
 

@@ -280,14 +280,18 @@ git init
 # You should see: Initialized empty Git repository...
 ```
 
-![Git Init Hands-On](/img/git-github/hands-on/git-init-hands-on.png)
-
 **What just happened?**
 - Git created a `.git` folder (hidden)
 - Your directory is now a Git repository
 - You're ready to start tracking files
 
-**Try it yourself**: Create a repository, then check `git status`. See what Git tells you.
+**Try it yourself**: 
+1. Create a repository using the commands above
+2. Check `git status` - see what Git tells you
+3. Create a README file and add it
+4. Make your first commit
+
+**Create a screenshot**: Take a screenshot of your terminal showing `git init` and `git status` output.
 
 ## Key Takeaways
 

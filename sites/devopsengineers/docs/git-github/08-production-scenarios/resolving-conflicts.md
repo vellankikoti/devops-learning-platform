@@ -356,14 +356,18 @@ git commit -m "Modify line 2"
 git merge feature/add-line2
 ```
 
-![Conflict Resolution Hands-On](/img/git-github/hands-on/conflict-resolution-hands-on.png)
-
 **What you'll see**:
-- Conflict markers in the file
+- Conflict markers in the file (`<<<<<<<`, `=======`, `>>>>>>>`)
 - Git telling you which files have conflicts
 - You need to resolve manually
 
-**Try it**: Create a conflict, resolve it, complete the merge.
+**Try it**: 
+1. Create a conflict using the commands above
+2. Open the conflicted file and see the markers
+3. Resolve the conflict by editing the file
+4. Stage the resolved file and complete the merge
+
+**Create a screenshot**: Capture your terminal showing the merge conflict, the conflict markers in the file, and the resolution process.
 
 ## What's Next?
 

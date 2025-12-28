@@ -331,14 +331,17 @@ git commit -m "Add README file"
 git log --oneline
 ```
 
-![First Commit Hands-On](/img/git-github/hands-on/first-commit-hands-on.png)
-
 **What you should see**:
-- Your commit hash
+- Your commit hash (unique identifier)
 - Your commit message
 - Author and timestamp
 
-**Try it**: Make a commit, then use `git show` to see the details.
+**Try it**: 
+1. Make a commit using the commands above
+2. Use `git show` to see commit details
+3. Use `git log` to see your commit history
+
+**Create a screenshot**: Capture your terminal showing the commit command and `git log` output.
 
 ## What's Next?
 

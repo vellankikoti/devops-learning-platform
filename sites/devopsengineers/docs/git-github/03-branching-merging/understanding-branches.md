@@ -156,14 +156,18 @@ git checkout feature/new-feature
 ls -la
 ```
 
-![Branch Hands-On](/img/git-github/hands-on/branch-hands-on.png)
-
 **What you're seeing**:
 - Branches are separate workspaces
 - Changes on one branch don't affect others
 - You can switch between them freely
 
-**Try it**: Create a branch, make changes, switch branches. See how Git keeps them separate.
+**Try it**: 
+1. Create a branch using the commands above
+2. Make changes on the branch
+3. Switch branches and observe how files change
+4. Use `git branch` to see all branches
+
+**Create a screenshot**: Capture your terminal showing branch creation, switching, and `git branch` output.
 
 ## What's Next?
 
