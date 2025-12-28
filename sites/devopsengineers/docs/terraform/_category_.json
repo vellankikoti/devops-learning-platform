@@ -1,0 +1,9 @@
+{
+  "label": "Terraform",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Infrastructure as Code with Terraform - provisioning and managing cloud resources."
+  }
+}
+

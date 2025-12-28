@@ -1,0 +1,9 @@
+{
+  "label": "Ansible",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Configuration management and automation with Ansible."
+  }
+}
+
