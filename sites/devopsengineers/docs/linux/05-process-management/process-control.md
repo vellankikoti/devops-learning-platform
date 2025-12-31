@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Process Control: Starting and Stopping
+title: "Process Control: Starting and Stopping"
 ---
 
 # Process Control: Start, Stop, Kill

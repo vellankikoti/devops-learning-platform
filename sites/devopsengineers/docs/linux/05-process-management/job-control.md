@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Job Control: Managing Background Processes
+title: "Job Control: Managing Background Processes"
 ---
 
 # Job Control: Background and Foreground
