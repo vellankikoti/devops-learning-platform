@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: ""SELinux And AppArmor: Mandatory Access Control""
+title: "SELinux And AppArmor: Mandatory Access Control"
 ---
 
 # SELinux and AppArmor: Advanced Security

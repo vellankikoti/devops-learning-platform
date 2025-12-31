@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: ""systemd: Modern Service Manager""
+title: "systemd: Modern Service Manager"
 ---
 
 # systemd: What Actually Runs Your System

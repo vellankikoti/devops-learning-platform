@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: ""System Hardening: Security Checklist""
+title: "System Hardening: Security Checklist"
 ---
 
 # System Hardening: Secure Your System

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: ""Security Fundamentals: Protecting Your System""
+title: "Security Fundamentals: Protecting Your System"
 ---
 
 # Security: Protect Your System

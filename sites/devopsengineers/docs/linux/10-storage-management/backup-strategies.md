@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: ""Backup Strategies: Protecting Data""
+title: "Backup Strategies: Protecting Data"
 ---
 
 # Backup Strategies: Protect Your Data

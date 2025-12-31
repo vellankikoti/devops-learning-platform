@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: ""Containers And LXC: Lightweight Virtualization""
+title: "Containers And LXC: Lightweight Virtualization"
 ---
 
 # Containers: Lightweight Virtualization

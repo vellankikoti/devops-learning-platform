@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: ""Mounting: Accessing Filesystems""
+title: "Mounting: Accessing Filesystems"
 ---
 
 # Mounting: Make Filesystems Accessible

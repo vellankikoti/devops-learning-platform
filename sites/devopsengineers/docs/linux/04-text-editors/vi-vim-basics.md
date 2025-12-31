@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: ""vi/vim Basics: Essential Editor Skills""
+title: "vi/vim Basics: Essential Editor Skills"
 ---
 
 # vi/vim: The Editor You Can't Avoid

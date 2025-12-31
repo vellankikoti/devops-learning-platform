@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: ""LVM: Logical Volume Manager""
+title: "LVM: Logical Volume Manager"
 ---
 
 # LVM: Flexible Storage

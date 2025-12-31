@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: ""Filesystems: Formatting Partitions""
+title: "Filesystems: Formatting Partitions"
 ---
 
 # Filesystems: Making Partitions Usable

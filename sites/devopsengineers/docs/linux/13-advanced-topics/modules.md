@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: ""Kernel Modules: Extending the Kernel""
+title: "Kernel Modules: Extending the Kernel"
 ---
 
 # Kernel Modules: Extend the Kernel

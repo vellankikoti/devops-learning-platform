@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: ""Logging Systems: syslog And systemd-journal""
+title: "Logging Systems: syslog And systemd-journal"
 ---
 
 # Logs: Your System's Memory

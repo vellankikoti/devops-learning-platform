@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: ""Audit Logging: Tracking System Activity""
+title: "Audit Logging: Tracking System Activity"
 ---
 
 # Audit Logging: Track Everything

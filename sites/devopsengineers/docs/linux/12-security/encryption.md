@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: ""Encryption: Protecting Data at Rest""
+title: "Encryption: Protecting Data at Rest"
 ---
 
 # Encryption: Protect Your Data

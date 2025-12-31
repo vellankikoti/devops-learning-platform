@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: ""Virtualization: Running Multiple Systems""
+title: "Virtualization: Running Multiple Systems"
 ---
 
 # Virtualization: Multiple Systems on One Machine

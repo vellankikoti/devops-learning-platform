@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: ""Kernel Basics: Understanding the Core""
+title: "Kernel Basics: Understanding the Core"
 ---
 
 # Kernel: The Heart of Linux

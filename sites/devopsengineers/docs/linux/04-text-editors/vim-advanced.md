@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: ""Vim Advanced: Power User Techniques""
+title: "Vim Advanced: Power User Techniques"
 ---
 
 # vim Advanced: When You're Ready for More

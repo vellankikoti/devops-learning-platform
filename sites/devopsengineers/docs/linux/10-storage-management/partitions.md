@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: ""Disk Partitions: Organizing Storage""
+title: "Disk Partitions: Organizing Storage"
 ---
 
 # Disk Partitions: Dividing Your Disk

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: ""Performance Tuning: Optimizing Linux""
+title: "Performance Tuning: Optimizing Linux"
 ---
 
 # Performance Tuning: Make It Fast

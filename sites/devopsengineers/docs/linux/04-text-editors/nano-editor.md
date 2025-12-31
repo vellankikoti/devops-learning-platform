@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: ""Nano: Simple Text Editor""
+title: "Nano: Simple Text Editor"
 ---
 
 # nano: The Editor for When vim is Too Much

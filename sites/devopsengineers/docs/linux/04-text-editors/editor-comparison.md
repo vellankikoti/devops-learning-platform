@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: ""Editor Comparison: Choosing The Right Editor""
+title: "Editor Comparison: Choosing The Right Editor"
 ---
 
 # Editor Comparison: Which One To Use
