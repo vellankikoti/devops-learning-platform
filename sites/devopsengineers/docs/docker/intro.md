@@ -113,19 +113,19 @@ Common problems. Debugging techniques. Performance issues. Real-world scenarios.
 
 **Why this matters**: Problems happen. Knowing how to fix them is what separates professionals from beginners.
 
-### [Best Practices (Module 13)](/docs/docker/13-best-practices/image-best-practices)
+### [Best Practices (Module 13)](/docs/docker/13-best-practices/production-checklist)
 
 Image best practices. Container best practices. Security best practices. Performance best practices. Production checklist.
 
 **Why this matters**: Best practices prevent problems. Understanding best practices is understanding professional Docker.
 
-### [Real-World Projects (Module 14)](/docs/docker/14-real-world-projects/project-web-application)
+### [Real-World Projects (Module 14)](/docs/docker/14-real-world-projects/complete-web-application)
 
 Complete projects. Web applications. Databases. Microservices. CI/CD pipelines. Production deployments.
 
 **Why this matters**: Projects tie everything together. Understanding projects is understanding how to apply Docker.
 
-### [Modules 15-20: Additional Topics](/docs/docker/15-additional-topics)
+### [Docker Cheatsheet (Module 15)](/docs/docker/15-cheatsheet/docker-commands-cheatsheet)
 
 Advanced networking. Container monitoring. Cloud-specific deployments. And more.
 

@@ -89,7 +89,7 @@ Configuration management. Secrets. How to manage configuration in Kubernetes.
 
 **Why this matters**: Applications need configuration. Understanding ConfigMaps and secrets is understanding configuration management.
 
-### [Persistent Volumes & Storage Classes (Module 9)](/docs/kubernetes/09-storage/understanding-storage)
+### [Persistent Volumes & Storage Classes (Module 9)](/docs/kubernetes/09-storage/understanding-persistent-volumes)
 
 Storage in Kubernetes. Persistent volumes. Storage classes. Data persistence.
 
@@ -107,91 +107,91 @@ DaemonSets. Node management. Running pods on every node.
 
 **Why this matters**: Some workloads need to run on every node. Understanding DaemonSets is understanding node-level workloads.
 
-### [Jobs & CronJobs (Module 12)](/docs/kubernetes/12-jobs/understanding-jobs)
+### [Jobs & CronJobs (Module 12)](/docs/kubernetes/12-jobs-cronjobs/understanding-jobs)
 
 Jobs. CronJobs. Batch processing. Scheduled tasks.
 
 **Why this matters**: Not all workloads are long-running. Understanding jobs is understanding batch processing.
 
-### [RBAC & Security Best Practices (Module 13)](/docs/kubernetes/13-security/understanding-rbac)
+### [RBAC & Security Best Practices (Module 13)](/docs/kubernetes/14-rbac/understanding-rbac)
 
 Security in Kubernetes. RBAC. Service accounts. Security policies.
 
 **Why this matters**: Security is non-negotiable. Understanding RBAC is understanding Kubernetes security.
 
-### [Network Policies (Module 14)](/docs/kubernetes/14-network-policies/understanding-network-policies)
+### [Network Policies (Module 14)](/docs/kubernetes/23-advanced-networking/advanced-networking)
 
 Network isolation. Network policies. Securing pod-to-pod communication.
 
 **Why this matters**: Security requires network isolation. Understanding network policies is understanding network security.
 
-### [Monitoring with Prometheus & Grafana (Module 15)](/docs/kubernetes/15-monitoring/monitoring-overview)
+### [Monitoring with Prometheus & Grafana (Module 15)](/docs/kubernetes/16-monitoring/understanding-monitoring)
 
 Monitoring Kubernetes. Prometheus. Grafana. Observability.
 
 **Why this matters**: You can't manage what you can't measure. Understanding monitoring is understanding observability.
 
-### [Logging with EFK/Loki Stack (Module 16)](/docs/kubernetes/16-logging/logging-overview)
+### [Logging with EFK/Loki Stack (Module 16)](/docs/kubernetes/17-logging/understanding-logging)
 
 Logging in Kubernetes. EFK stack. Loki. Centralized logging.
 
 **Why this matters**: Logs tell you what's happening. Understanding logging is understanding troubleshooting.
 
-### [Helm Package Manager (Module 17)](/docs/kubernetes/17-helm/understanding-helm)
+### [Helm Package Manager (Module 17)](/docs/kubernetes/15-helm/understanding-helm)
 
 Helm. Package management. Charts. Managing Kubernetes applications.
 
 **Why this matters**: Applications are complex. Understanding Helm is understanding application management.
 
-### [Kustomize for Configuration Management (Module 18)](/docs/kubernetes/18-kustomize/understanding-kustomize)
+### [Security Hardening (Module 18)](/docs/kubernetes/18-security/understanding-security)
 
 Kustomize. Configuration management. Managing multiple environments.
 
 **Why this matters**: Configuration management is essential. Understanding Kustomize is understanding configuration.
 
-### [CI/CD with Kubernetes (GitOps) (Module 19)](/docs/kubernetes/19-ci-cd/ci-cd-overview)
+### [CI/CD with Kubernetes (GitOps) (Module 19)](/docs/kubernetes/20-cicd/understanding-cicd)
 
 CI/CD in Kubernetes. GitOps. ArgoCD. Flux. Continuous deployment.
 
 **Why this matters**: DevOps requires CI/CD. Understanding GitOps is understanding modern deployment.
 
-### [Multi-Cluster Management (Module 20)](/docs/kubernetes/20-multi-cluster/multi-cluster-overview)
+### [Autoscaling (Module 20)](/docs/kubernetes/19-autoscaling/understanding-autoscaling)
 
 Managing multiple clusters. Federation. Cluster API. Multi-cluster patterns.
 
 **Why this matters**: Production often requires multiple clusters. Understanding multi-cluster is understanding scale.
 
-### [Custom Resource Definitions (CRDs) (Module 21)](/docs/kubernetes/21-crds/understanding-crds)
+### [Production Readiness (Module 21)](/docs/kubernetes/21-production/understanding-production)
 
 Extending Kubernetes. CRDs. Custom resources. API extensions.
 
 **Why this matters**: Kubernetes is extensible. Understanding CRDs is understanding extensibility.
 
-### [Operators & Controller Patterns (Module 22)](/docs/kubernetes/22-operators/operator-overview)
+### [kubectl Commands (Module 22)](/docs/kubernetes/22-kubectl/kubectl-commands)
 
 Operators. Controller patterns. Automating operations.
 
 **Why this matters**: Operations can be automated. Understanding operators is understanding automation.
 
-### [Service Mesh (Istio/Linkerd) (Module 23)](/docs/kubernetes/23-service-mesh/service-mesh-overview)
+### [Advanced Networking (Module 23)](/docs/kubernetes/23-advanced-networking/advanced-networking)
 
 Service mesh. Istio. Linkerd. Microservices networking.
 
 **Why this matters**: Microservices need advanced networking. Understanding service mesh is understanding microservices.
 
-### [Serverless on Kubernetes (Knative) (Module 24)](/docs/kubernetes/24-serverless/serverless-overview)
+### [GitOps (Module 24)](/docs/kubernetes/24-gitops/understanding-gitops)
 
 Serverless on Kubernetes. Knative. Event-driven applications.
 
 **Why this matters**: Serverless is the future. Understanding Knative is understanding serverless.
 
-### [Cost Optimization Strategies (Module 25)](/docs/kubernetes/25-cost-optimization/cost-optimization-overview)
+### [Multi-Cluster Management (Module 25)](/docs/kubernetes/25-multi-cluster/multi-cluster-management)
 
 Reducing Kubernetes costs. Resource optimization. Autoscaling.
 
 **Why this matters**: Cost matters. Understanding cost optimization is understanding efficiency.
 
-### [Disaster Recovery & Backup (Module 26)](/docs/kubernetes/26-disaster-recovery/dr-overview)
+### [Performance Optimization (Module 26)](/docs/kubernetes/26-performance/performance-optimization)
 
 Disaster recovery. Backup strategies. Restore procedures.
 
@@ -211,19 +211,19 @@ Disaster recovery. Backup strategies. Restore procedures.
 - Storage issues
 - And more real-world scenarios
 
-### [Performance Tuning (Module 28)](/docs/kubernetes/28-performance/performance-overview)
+### [Performance Tuning (Module 28)](/docs/kubernetes/26-performance/performance-optimization)
 
 Optimizing Kubernetes performance. Resource tuning. Network tuning.
 
 **Why this matters**: Performance matters. Understanding tuning is understanding optimization.
 
-### [Kubernetes Security Hardening (Module 29)](/docs/kubernetes/29-security-hardening/security-overview)
+### [Kubernetes Security Hardening (Module 29)](/docs/kubernetes/18-security/understanding-security)
 
 Security hardening. Pod security. Network security. Compliance.
 
 **Why this matters**: Security is essential. Understanding hardening is understanding protection.
 
-### [Production Readiness Checklist (Module 30)](/docs/kubernetes/30-production/production-overview)
+### [Production Readiness Checklist (Module 30)](/docs/kubernetes/21-production/understanding-production)
 
 Production readiness. Checklists. Best practices. Going to production.
 
