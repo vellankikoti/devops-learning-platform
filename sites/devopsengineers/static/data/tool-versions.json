@@ -1,8 +1,8 @@
 {
   "kubernetes": {
-    "version": "v1.35.1",
-    "date": "2026-02-10T19:03:38Z",
-    "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.35.1"
+    "version": "v1.35.2",
+    "date": "2026-02-27T00:09:07Z",
+    "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.35.2"
   },
   "terraform": {
     "version": "v1.14.6",
