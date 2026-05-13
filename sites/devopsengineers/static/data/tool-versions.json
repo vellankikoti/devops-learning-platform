@@ -5,9 +5,9 @@
     "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1"
   },
   "terraform": {
-    "version": "v1.15.2",
-    "date": "2026-05-06T13:56:22Z",
-    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.2"
+    "version": "v1.15.3",
+    "date": "2026-05-13T09:58:43Z",
+    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.3"
   },
   "ansible": {
     "version": "v2.20.5",
