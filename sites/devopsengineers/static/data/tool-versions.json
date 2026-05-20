@@ -15,8 +15,8 @@
     "url": "https://github.com/ansible/ansible/releases/tag/v2.21.0"
   },
   "jenkins": {
-    "version": "jenkins-2.564",
-    "date": "2026-05-12T10:09:04Z",
-    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.564"
+    "version": "jenkins-2.565",
+    "date": "2026-05-20T10:12:27Z",
+    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.565"
   }
 }
