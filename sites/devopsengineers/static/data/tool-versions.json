@@ -5,9 +5,9 @@
     "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1"
   },
   "terraform": {
-    "version": "v1.15.5",
-    "date": "2026-05-27T14:52:52Z",
-    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.5"
+    "version": "v1.15.6",
+    "date": "2026-06-10T11:52:20Z",
+    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.6"
   },
   "ansible": {
     "version": "v2.21.0",
@@ -15,8 +15,8 @@
     "url": "https://github.com/ansible/ansible/releases/tag/v2.21.0"
   },
   "jenkins": {
-    "version": "jenkins-2.567",
-    "date": "2026-06-09T14:56:14Z",
-    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.567"
+    "version": "jenkins-2.568",
+    "date": "2026-06-10T12:52:30Z",
+    "url": "https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.568"
   }
 }
