@@ -10,9 +10,9 @@
     "url": "https://github.com/hashicorp/terraform/releases/tag/v1.16.5"
   },
   "ansible": {
-    "version": "v2.21.4",
-    "date": "2026-09-08T16:52:09Z",
-    "url": "https://github.com/ansible/ansible/releases/tag/v2.21.4"
+    "version": "v2.21.5",
+    "date": "2026-10-05T15:11:41Z",
+    "url": "https://github.com/ansible/ansible/releases/tag/v2.21.5"
   },
   "jenkins": {
     "version": "jenkins-2.584",
