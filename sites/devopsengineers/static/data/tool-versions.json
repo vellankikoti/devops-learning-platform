@@ -5,9 +5,9 @@
     "url": "https://github.com/kubernetes/kubernetes/releases/tag/v1.37.2"
   },
   "terraform": {
-    "version": "v1.17.1",
-    "date": "2026-10-28T18:02:22Z",
-    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.17.1"
+    "version": "v1.17.2",
+    "date": "2026-11-11T11:56:51Z",
+    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.17.2"
   },
   "ansible": {
     "version": "v2.22.0",
